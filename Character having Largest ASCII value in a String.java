@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Solution{
-
+//Character having Largest ASCII value in a String
 	public static void main(String[] args) {
 		
 		System.out.println("enter the string");
